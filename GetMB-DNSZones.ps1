@@ -5,7 +5,7 @@
 	 Created by:   	David Morris
 	 Organization: 	East Lothian Council
 	 Filename:     	GetMB-DNSZones.ps1
-     Dependencies:  GetMBAuthToken module
+	 Dependencies:  GetMBAuthToken module
 	===========================================================================
 	.DESCRIPTION
     Example script, this will connect to the Mythic-Beasts API and retrieve a list of dns zones
