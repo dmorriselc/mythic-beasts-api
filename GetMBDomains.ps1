@@ -4,11 +4,11 @@
 	 Created on:   	13/03/2023
 	 Created by:   	David Morris
 	 Organization: 	East Lothian Council
-	 Filename:     	GetMBDomains.ps1
+	 Filename:     	GetMB-DNSZones.ps1
      Dependencies:  GetMBAuthToken module
 	===========================================================================
 	.DESCRIPTION
-    Example script, this will connect to the Mythic-Beasts API and retrieve a list of domains  
+    Example script, this will connect to the Mythic-Beasts API and retrieve a list of dns zones
 #>
 
 #Requires -Modules GetMBAuthToken
